@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProfileApp</string>
+    <string name="edit_profile">Edit Profil</string>
+    <string name="foto_profil">Foto Profil</string>
+    <string name="edit_profil">Edit Profil</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+</resources>
